@@ -16,7 +16,7 @@ const ErrorMessage = ({ error }) => (
 )
 
 const defaultValues = {
-	email: 'sandy@gmail.com' ,
+	email: 'melziwahab@gmail.com' ,
 	password: '' ,
 }
 const Login = () => { 
